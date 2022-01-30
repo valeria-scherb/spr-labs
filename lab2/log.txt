@@ -1,0 +1,305 @@
+2021-10-15 11:57:19.581233 | Loading image
+2021-10-15 11:57:19.587237 | Preparing
+2021-10-15 11:57:20.257847 | Diffusion start
+2021-10-15 11:57:20.790332 | Diffusion iteration 1
+2021-10-15 11:57:20.790332 | Writing links image to proc/diff/1.png ...
+2021-10-15 11:57:29.174259 | Diffusion iteration 2
+2021-10-15 11:57:29.183268 | Diffusion iteration 3
+2021-10-15 11:57:29.192274 | Diffusion iteration 4
+2021-10-15 11:57:29.201282 | Diffusion iteration 5
+2021-10-15 11:57:29.209290 | Diffusion iteration 6
+2021-10-15 11:57:29.218299 | Diffusion iteration 7
+2021-10-15 11:57:29.227306 | Diffusion iteration 8
+2021-10-15 11:57:29.236313 | Diffusion iteration 9
+2021-10-15 11:57:29.245321 | Diffusion iteration 10
+2021-10-15 11:57:29.245321 | Writing links image to proc/diff/10.png ...
+2021-10-15 11:57:34.846688 | Diffusion iteration 11
+2021-10-15 11:57:34.855696 | Diffusion iteration 12
+2021-10-15 11:57:34.863704 | Diffusion iteration 13
+2021-10-15 11:57:34.872712 | Diffusion iteration 14
+2021-10-15 11:57:34.881720 | Diffusion iteration 15
+2021-10-15 11:57:34.890728 | Diffusion iteration 16
+2021-10-15 11:57:34.899736 | Diffusion iteration 17
+2021-10-15 11:57:34.907744 | Diffusion iteration 18
+2021-10-15 11:57:34.916752 | Diffusion iteration 19
+2021-10-15 11:57:34.925759 | Diffusion iteration 20
+2021-10-15 11:57:34.925759 | Writing links image to proc/diff/20.png ...
+2021-10-15 11:57:40.040411 | Diffusion iteration 21
+2021-10-15 11:57:40.050419 | Diffusion iteration 22
+2021-10-15 11:57:40.058427 | Diffusion iteration 23
+2021-10-15 11:57:40.067434 | Diffusion iteration 24
+2021-10-15 11:57:40.076445 | Diffusion iteration 25
+2021-10-15 11:57:40.087454 | Diffusion iteration 26
+2021-10-15 11:57:40.098463 | Diffusion iteration 27
+2021-10-15 11:57:40.106470 | Diffusion iteration 28
+2021-10-15 11:57:40.115480 | Diffusion iteration 29
+2021-10-15 11:57:40.124487 | Diffusion iteration 30
+2021-10-15 11:57:40.124487 | Writing links image to proc/diff/30.png ...
+2021-10-15 11:57:45.228128 | Diffusion iteration 31
+2021-10-15 11:57:45.237136 | Diffusion iteration 32
+2021-10-15 11:57:45.246144 | Diffusion iteration 33
+2021-10-15 11:57:45.255153 | Diffusion iteration 34
+2021-10-15 11:57:45.264161 | Diffusion iteration 35
+2021-10-15 11:57:45.273169 | Diffusion iteration 36
+2021-10-15 11:57:45.282177 | Diffusion iteration 37
+2021-10-15 11:57:45.291185 | Diffusion iteration 38
+2021-10-15 11:57:45.300193 | Diffusion iteration 39
+2021-10-15 11:57:45.309201 | Diffusion iteration 40
+2021-10-15 11:57:45.309201 | Writing links image to proc/diff/40.png ...
+2021-10-15 11:57:50.424852 | Diffusion iteration 41
+2021-10-15 11:57:50.433862 | Diffusion iteration 42
+2021-10-15 11:57:50.442871 | Diffusion iteration 43
+2021-10-15 11:57:50.451878 | Diffusion iteration 44
+2021-10-15 11:57:50.460886 | Diffusion iteration 45
+2021-10-15 11:57:50.469894 | Diffusion iteration 46
+2021-10-15 11:57:50.479904 | Diffusion iteration 47
+2021-10-15 11:57:50.488912 | Diffusion iteration 48
+2021-10-15 11:57:50.497920 | Diffusion iteration 49
+2021-10-15 11:57:50.507929 | Diffusion iteration 50
+2021-10-15 11:57:50.507929 | Writing links image to proc/diff/50.png ...
+2021-10-15 11:57:55.625582 | Diffusion iteration 51
+2021-10-15 11:57:55.635592 | Diffusion iteration 52
+2021-10-15 11:57:55.644599 | Diffusion iteration 53
+2021-10-15 11:57:55.653608 | Diffusion iteration 54
+2021-10-15 11:57:55.662616 | Diffusion iteration 55
+2021-10-15 11:57:55.670623 | Diffusion iteration 56
+2021-10-15 11:57:55.679633 | Diffusion iteration 57
+2021-10-15 11:57:55.688644 | Diffusion iteration 58
+2021-10-15 11:57:55.697646 | Diffusion iteration 59
+2021-10-15 11:57:55.706655 | Diffusion iteration 60
+2021-10-15 11:57:55.706655 | Writing links image to proc/diff/60.png ...
+2021-10-15 11:58:00.815301 | Diffusion iteration 61
+2021-10-15 11:58:00.824309 | Diffusion iteration 62
+2021-10-15 11:58:00.833318 | Diffusion iteration 63
+2021-10-15 11:58:00.842326 | Diffusion iteration 64
+2021-10-15 11:58:00.851334 | Diffusion iteration 65
+2021-10-15 11:58:00.859341 | Diffusion iteration 66
+2021-10-15 11:58:00.868350 | Diffusion iteration 67
+2021-10-15 11:58:00.877358 | Diffusion iteration 68
+2021-10-15 11:58:00.886366 | Diffusion iteration 69
+2021-10-15 11:58:00.894373 | Diffusion iteration 70
+2021-10-15 11:58:00.894373 | Writing links image to proc/diff/70.png ...
+2021-10-15 11:58:06.037946 | Diffusion iteration 71
+2021-10-15 11:58:06.046954 | Diffusion iteration 72
+2021-10-15 11:58:06.054963 | Diffusion iteration 73
+2021-10-15 11:58:06.063971 | Diffusion iteration 74
+2021-10-15 11:58:06.072981 | Diffusion iteration 75
+2021-10-15 11:58:06.081987 | Diffusion iteration 76
+2021-10-15 11:58:06.090995 | Diffusion iteration 77
+2021-10-15 11:58:06.099003 | Diffusion iteration 78
+2021-10-15 11:58:06.108011 | Diffusion iteration 79
+2021-10-15 11:58:06.117020 | Diffusion iteration 80
+2021-10-15 11:58:06.117020 | Writing links image to proc/diff/80.png ...
+2021-10-15 11:58:11.253690 | Diffusion iteration 81
+2021-10-15 11:58:11.262698 | Diffusion iteration 82
+2021-10-15 11:58:11.271706 | Diffusion iteration 83
+2021-10-15 11:58:11.280713 | Diffusion iteration 84
+2021-10-15 11:58:11.289723 | Diffusion iteration 85
+2021-10-15 11:58:11.298731 | Diffusion iteration 86
+2021-10-15 11:58:11.307739 | Diffusion iteration 87
+2021-10-15 11:58:11.315746 | Diffusion iteration 88
+2021-10-15 11:58:11.326756 | Diffusion iteration 89
+2021-10-15 11:58:11.335765 | Diffusion iteration 90
+2021-10-15 11:58:11.335765 | Writing links image to proc/diff/90.png ...
+2021-10-15 11:58:16.425904 | Diffusion iteration 91
+2021-10-15 11:58:16.434913 | Diffusion iteration 92
+2021-10-15 11:58:16.443921 | Diffusion iteration 93
+2021-10-15 11:58:16.452929 | Diffusion iteration 94
+2021-10-15 11:58:16.461936 | Diffusion iteration 95
+2021-10-15 11:58:16.470945 | Diffusion iteration 96
+2021-10-15 11:58:16.479953 | Diffusion iteration 97
+2021-10-15 11:58:16.489962 | Diffusion iteration 98
+2021-10-15 11:58:16.498970 | Diffusion iteration 99
+2021-10-15 11:58:16.506978 | Diffusion iteration 100
+2021-10-15 11:58:16.506978 | Writing links image to proc/diff/100.png ...
+2021-10-15 11:58:21.750059 | Diffusion iteration 101
+2021-10-15 11:58:21.759067 | Diffusion iteration 102
+2021-10-15 11:58:21.768075 | Diffusion iteration 103
+2021-10-15 11:58:21.777083 | Diffusion iteration 104
+2021-10-15 11:58:21.786089 | Diffusion iteration 105
+2021-10-15 11:58:21.795099 | Diffusion iteration 106
+2021-10-15 11:58:21.803104 | Diffusion iteration 107
+2021-10-15 11:58:21.812113 | Diffusion iteration 108
+2021-10-15 11:58:21.821122 | Diffusion iteration 109
+2021-10-15 11:58:21.830131 | Diffusion iteration 110
+2021-10-15 11:58:21.830131 | Writing links image to proc/diff/110.png ...
+2021-10-15 11:58:26.930769 | Diffusion iteration 111
+2021-10-15 11:58:26.939779 | Diffusion iteration 112
+2021-10-15 11:58:26.948783 | Diffusion iteration 113
+2021-10-15 11:58:26.957793 | Diffusion iteration 114
+2021-10-15 11:58:26.966801 | Diffusion iteration 115
+2021-10-15 11:58:26.974808 | Diffusion iteration 116
+2021-10-15 11:58:26.984817 | Diffusion iteration 117
+2021-10-15 11:58:26.993826 | Diffusion iteration 118
+2021-10-15 11:58:27.002832 | Diffusion iteration 119
+2021-10-15 11:58:27.011842 | Diffusion iteration 120
+2021-10-15 11:58:27.011842 | Writing links image to proc/diff/120.png ...
+2021-10-15 11:58:32.153285 | Diffusion iteration 121
+2021-10-15 11:58:32.162293 | Diffusion iteration 122
+2021-10-15 11:58:32.171302 | Diffusion iteration 123
+2021-10-15 11:58:32.180308 | Diffusion iteration 124
+2021-10-15 11:58:32.189317 | Diffusion iteration 125
+2021-10-15 11:58:32.198326 | Diffusion iteration 126
+2021-10-15 11:58:32.207334 | Diffusion iteration 127
+2021-10-15 11:58:32.216342 | Diffusion iteration 128
+2021-10-15 11:58:32.224350 | Diffusion iteration 129
+2021-10-15 11:58:32.233360 | Diffusion iteration 130
+2021-10-15 11:58:32.233360 | Writing links image to proc/diff/130.png ...
+2021-10-15 11:58:37.353012 | Diffusion iteration 131
+2021-10-15 11:58:37.362020 | Diffusion iteration 132
+2021-10-15 11:58:37.371028 | Diffusion iteration 133
+2021-10-15 11:58:37.380038 | Diffusion iteration 134
+2021-10-15 11:58:37.389047 | Diffusion iteration 135
+2021-10-15 11:58:37.398053 | Diffusion iteration 136
+2021-10-15 11:58:37.407061 | Diffusion iteration 137
+2021-10-15 11:58:37.416069 | Diffusion iteration 138
+2021-10-15 11:58:37.425080 | Diffusion iteration 139
+2021-10-15 11:58:37.435086 | Diffusion iteration 140
+2021-10-15 11:58:37.435086 | Writing links image to proc/diff/140.png ...
+2021-10-15 11:58:42.548736 | Diffusion iteration 141
+2021-10-15 11:58:42.558747 | Diffusion iteration 142
+2021-10-15 11:58:42.569757 | Diffusion iteration 143
+2021-10-15 11:58:42.580767 | Diffusion iteration 144
+2021-10-15 11:58:42.589776 | Diffusion iteration 145
+2021-10-15 11:58:42.598782 | Diffusion iteration 146
+2021-10-15 11:58:42.607792 | Diffusion iteration 147
+2021-10-15 11:58:42.617801 | Diffusion iteration 148
+2021-10-15 11:58:42.626809 | Diffusion iteration 149
+2021-10-15 11:58:42.635819 | Diffusion iteration 150
+2021-10-15 11:58:42.635819 | Writing links image to proc/diff/150.png ...
+2021-10-15 11:58:47.737483 | Diffusion iteration 151
+2021-10-15 11:58:47.746492 | Diffusion iteration 152
+2021-10-15 11:58:47.755500 | Diffusion iteration 153
+2021-10-15 11:58:47.764510 | Diffusion iteration 154
+2021-10-15 11:58:47.773517 | Diffusion iteration 155
+2021-10-15 11:58:47.782525 | Diffusion iteration 156
+2021-10-15 11:58:47.791532 | Diffusion iteration 157
+2021-10-15 11:58:47.800541 | Diffusion iteration 158
+2021-10-15 11:58:47.809549 | Diffusion iteration 159
+2021-10-15 11:58:47.818558 | Diffusion iteration 160
+2021-10-15 11:58:47.818558 | Writing links image to proc/diff/160.png ...
+2021-10-15 11:58:52.917700 | Diffusion iteration 161
+2021-10-15 11:58:52.926708 | Diffusion iteration 162
+2021-10-15 11:58:52.935716 | Diffusion iteration 163
+2021-10-15 11:58:52.944725 | Diffusion iteration 164
+2021-10-15 11:58:52.953734 | Diffusion iteration 165
+2021-10-15 11:58:52.962741 | Diffusion iteration 166
+2021-10-15 11:58:52.971751 | Diffusion iteration 167
+2021-10-15 11:58:52.980759 | Diffusion iteration 168
+2021-10-15 11:58:52.989766 | Diffusion iteration 169
+2021-10-15 11:58:52.998773 | Diffusion iteration 170
+2021-10-15 11:58:52.998773 | Writing links image to proc/diff/170.png ...
+2021-10-15 11:58:58.094412 | Diffusion iteration 171
+2021-10-15 11:58:58.103421 | Diffusion iteration 172
+2021-10-15 11:58:58.113432 | Diffusion iteration 173
+2021-10-15 11:58:58.122440 | Diffusion iteration 174
+2021-10-15 11:58:58.131446 | Diffusion iteration 175
+2021-10-15 11:58:58.140454 | Diffusion iteration 176
+2021-10-15 11:58:58.148462 | Diffusion iteration 177
+2021-10-15 11:58:58.157470 | Diffusion iteration 178
+2021-10-15 11:58:58.166479 | Diffusion iteration 179
+2021-10-15 11:58:58.175486 | Diffusion iteration 180
+2021-10-15 11:58:58.175486 | Writing links image to proc/diff/180.png ...
+2021-10-15 11:59:03.249612 | Diffusion iteration 181
+2021-10-15 11:59:03.258619 | Diffusion iteration 182
+2021-10-15 11:59:03.268629 | Diffusion iteration 183
+2021-10-15 11:59:03.277637 | Diffusion iteration 184
+2021-10-15 11:59:03.286645 | Diffusion iteration 185
+2021-10-15 11:59:03.295653 | Diffusion iteration 186
+2021-10-15 11:59:03.303660 | Diffusion iteration 187
+2021-10-15 11:59:03.312670 | Diffusion iteration 188
+2021-10-15 11:59:03.321676 | Diffusion iteration 189
+2021-10-15 11:59:03.330685 | Diffusion iteration 190
+2021-10-15 11:59:03.330685 | Writing links image to proc/diff/190.png ...
+2021-10-15 11:59:08.401295 | Diffusion iteration 191
+2021-10-15 11:59:08.409302 | Diffusion iteration 192
+2021-10-15 11:59:08.418312 | Diffusion iteration 193
+2021-10-15 11:59:08.427318 | Diffusion iteration 194
+2021-10-15 11:59:08.436328 | Diffusion iteration 195
+2021-10-15 11:59:08.445334 | Diffusion iteration 196
+2021-10-15 11:59:08.454345 | Diffusion iteration 197
+2021-10-15 11:59:08.463351 | Diffusion iteration 198
+2021-10-15 11:59:08.472360 | Diffusion iteration 199
+2021-10-15 11:59:08.481366 | Diffusion iteration 200
+2021-10-15 11:59:08.481366 | Writing links image to proc/diff/200.png ...
+2021-10-15 11:59:13.880277 | Diffusion end
+2021-10-15 11:59:13.880277 | Reduction start
+2021-10-15 11:59:16.035237 | (1) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 489.7972178812419
+2021-10-15 11:59:16.035237 | Writing links image to proc/redc_lnk/1.png ...
+2021-10-15 11:59:23.880166 | (2) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 440.8174960931177
+2021-10-15 11:59:23.885170 | (3) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 396.73574648380594
+2021-10-15 11:59:23.890175 | (4) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 357.0621718354254
+2021-10-15 11:59:23.894179 | (5) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 321.3559546518828
+2021-10-15 11:59:23.899183 | (6) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 289.22035918669457
+2021-10-15 11:59:23.905189 | (7) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 260.2983232680251
+2021-10-15 11:59:23.909192 | (8) Markup exists, indecisive elements: 87296, crossed 0 nodes and 0 links in 1 cross iters for eps = 234.2684909412226
+2021-10-15 11:59:23.916198 | (9) Markup exists, indecisive elements: 32729, crossed 54567 nodes and 327782 links in 9 cross iters for eps = 210.84164184710036
+2021-10-15 11:59:23.938218 | (10) Markup exists, indecisive elements: 26280, crossed 61016 nodes and 367204 links in 9 cross iters for eps = 189.75747766239033
+2021-10-15 11:59:23.938218 | Writing links image to proc/redc_lnk/10.png ...
+2021-10-15 11:59:28.513584 | (11) Markup exists, indecisive elements: 21013, crossed 66283 nodes and 399493 links in 4 cross iters for eps = 170.7817298961513
+2021-10-15 11:59:28.529599 | (12) Markup exists, indecisive elements: 13261, crossed 74035 nodes and 454374 links in 3 cross iters for eps = 153.70355690653616
+2021-10-15 11:59:28.551618 | (13) Markup exists, indecisive elements: 4465, crossed 82831 nodes and 496307 links in 2 cross iters for eps = 138.33320121588255
+2021-10-15 11:59:28.565631 | (14) Markup exists, indecisive elements: 1868, crossed 85428 nodes and 510905 links in 2 cross iters for eps = 124.4998810942943
+2021-10-15 11:59:28.577642 | (15) Markup exists, indecisive elements: 996, crossed 86300 nodes and 516464 links in 2 cross iters for eps = 112.04989298486487
+2021-10-15 11:59:28.588652 | (16) Markup exists, indecisive elements: 560, crossed 86736 nodes and 518885 links in 2 cross iters for eps = 100.84490368637839
+2021-10-15 11:59:28.598661 | (17) Markup exists, indecisive elements: 337, crossed 86959 nodes and 520204 links in 2 cross iters for eps = 90.76041331774056
+2021-10-15 11:59:28.607670 | (18) Markup exists, indecisive elements: 223, crossed 87073 nodes and 520869 links in 2 cross iters for eps = 81.68437198596651
+2021-10-15 11:59:28.615677 | (19) Markup exists, indecisive elements: 153, crossed 87143 nodes and 521247 links in 2 cross iters for eps = 73.51593478736986
+2021-10-15 11:59:28.622683 | (20) Markup exists, indecisive elements: 128, crossed 87168 nodes and 521404 links in 2 cross iters for eps = 66.16434130863287
+2021-10-15 11:59:28.622683 | Writing links image to proc/redc_lnk/20.png ...
+2021-10-15 11:59:31.471798 | (21) Markup exists, indecisive elements: 110, crossed 87186 nodes and 521495 links in 2 cross iters for eps = 59.54790717776959
+2021-10-15 11:59:31.478804 | (22) Markup exists, indecisive elements: 91, crossed 87205 nodes and 521585 links in 2 cross iters for eps = 53.59311645999263
+2021-10-15 11:59:31.485811 | (23) Markup exists, indecisive elements: 82, crossed 87214 nodes and 521630 links in 2 cross iters for eps = 48.233804813993366
+2021-10-15 11:59:31.492817 | (24) Markup exists, indecisive elements: 73, crossed 87223 nodes and 521672 links in 2 cross iters for eps = 43.41042433259403
+2021-10-15 11:59:31.499824 | (25) Markup exists, indecisive elements: 69, crossed 87227 nodes and 521692 links in 2 cross iters for eps = 39.06938189933463
+2021-10-15 11:59:31.506831 | (26) Markup exists, indecisive elements: 66, crossed 87230 nodes and 521705 links in 2 cross iters for eps = 35.16244370940117
+2021-10-15 11:59:31.512836 | (27) Markup exists, indecisive elements: 60, crossed 87236 nodes and 521735 links in 2 cross iters for eps = 31.646199338461052
+2021-10-15 11:59:31.519842 | (28) Markup exists, indecisive elements: 52, crossed 87244 nodes and 521766 links in 2 cross iters for eps = 28.481579404614948
+2021-10-15 11:59:31.525848 | (29) Markup exists, indecisive elements: 50, crossed 87246 nodes and 521777 links in 2 cross iters for eps = 25.633421464153454
+2021-10-15 11:59:31.532854 | (30) Markup exists, indecisive elements: 43, crossed 87253 nodes and 521806 links in 2 cross iters for eps = 23.07007931773811
+2021-10-15 11:59:31.532854 | Writing links image to proc/redc_lnk/30.png ...
+2021-10-15 11:59:34.361450 | (31) Markup exists, indecisive elements: 38, crossed 87258 nodes and 521827 links in 2 cross iters for eps = 20.7630713859643
+2021-10-15 11:59:34.367455 | (32) Markup exists, indecisive elements: 32, crossed 87264 nodes and 521852 links in 2 cross iters for eps = 18.68676424736787
+2021-10-15 11:59:34.373461 | (33) Markup exists, indecisive elements: 29, crossed 87267 nodes and 521868 links in 2 cross iters for eps = 16.81808782263108
+2021-10-15 11:59:34.380468 | (34) Markup exists, indecisive elements: 27, crossed 87269 nodes and 521873 links in 2 cross iters for eps = 15.136279040367974
+2021-10-15 11:59:34.386473 | (35) Markup exists, indecisive elements: 23, crossed 87273 nodes and 521889 links in 2 cross iters for eps = 13.622651136331177
+2021-10-15 11:59:34.392479 | (36) Markup exists, indecisive elements: 23, crossed 87273 nodes and 521890 links in 2 cross iters for eps = 12.260386022698059
+2021-10-15 11:59:34.399485 | (37) Markup exists, indecisive elements: 19, crossed 87277 nodes and 521908 links in 2 cross iters for eps = 11.034347420428253
+2021-10-15 11:59:34.404489 | (38) Markup exists, indecisive elements: 13, crossed 87283 nodes and 521932 links in 2 cross iters for eps = 9.930912678385427
+2021-10-15 11:59:34.410495 | (39) Markup exists, indecisive elements: 11, crossed 87285 nodes and 521940 links in 2 cross iters for eps = 8.937821410546885
+2021-10-15 11:59:34.415500 | (40) Markup exists, indecisive elements: 10, crossed 87286 nodes and 521944 links in 2 cross iters for eps = 8.044039269492197
+2021-10-15 11:59:34.415500 | Writing links image to proc/redc_lnk/40.png ...
+2021-10-15 11:59:37.237732 | (41) Markup exists, indecisive elements: 10, crossed 87286 nodes and 521944 links in 2 cross iters for eps = 7.239635342542978
+2021-10-15 11:59:37.243737 | (42) Markup exists, indecisive elements: 8, crossed 87288 nodes and 521952 links in 2 cross iters for eps = 6.51567180828868
+2021-10-15 11:59:37.248742 | (43) Markup exists, indecisive elements: 6, crossed 87290 nodes and 521960 links in 2 cross iters for eps = 5.864104627459812
+2021-10-15 11:59:37.254748 | (44) Markup exists, indecisive elements: 4, crossed 87292 nodes and 521970 links in 2 cross iters for eps = 5.277694164713831
+2021-10-15 11:59:37.260753 | (45) Markup exists, indecisive elements: 4, crossed 87292 nodes and 521968 links in 2 cross iters for eps = 4.7499247482424485
+2021-10-15 11:59:37.265758 | (46) Markup exists, indecisive elements: 3, crossed 87293 nodes and 521973 links in 2 cross iters for eps = 4.274932273418203
+2021-10-15 11:59:37.272764 | (47) Markup exists, indecisive elements: 3, crossed 87293 nodes and 521972 links in 2 cross iters for eps = 3.847439046076383
+2021-10-15 11:59:37.277768 | (48) Markup exists, indecisive elements: 3, crossed 87293 nodes and 521972 links in 2 cross iters for eps = 3.462695141468745
+2021-10-15 11:59:37.283774 | (49) Markup exists, indecisive elements: 3, crossed 87293 nodes and 521972 links in 2 cross iters for eps = 3.1164256273218705
+2021-10-15 11:59:37.288779 | (50) Markup exists, indecisive elements: 3, crossed 87293 nodes and 521973 links in 2 cross iters for eps = 2.8047830645896834
+2021-10-15 11:59:37.288779 | Writing links image to proc/redc_lnk/50.png ...
+2021-10-15 11:59:40.116349 | (51) Markup exists, indecisive elements: 3, crossed 87293 nodes and 521974 links in 2 cross iters for eps = 2.524304758130715
+2021-10-15 11:59:40.122355 | (52) Markup exists, indecisive elements: 2, crossed 87294 nodes and 521977 links in 2 cross iters for eps = 2.2718742823176434
+2021-10-15 11:59:40.128361 | (53) Markup exists, indecisive elements: 2, crossed 87294 nodes and 521983 links in 2 cross iters for eps = 2.0446868540858794
+2021-10-15 11:59:40.133365 | (54) Markup exists, indecisive elements: 2, crossed 87294 nodes and 521978 links in 2 cross iters for eps = 1.8402181686772914
+2021-10-15 11:59:40.139370 | (55) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 1.6561963518095624
+2021-10-15 11:59:40.145376 | (56) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 1.4905767166286061
+2021-10-15 11:59:40.150380 | (57) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 1.3415190449657455
+2021-10-15 11:59:40.156386 | (58) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 1.207367140469171
+2021-10-15 11:59:40.162391 | (59) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 1.086630426422254
+2021-10-15 11:59:40.167396 | (60) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 0.9779673837800286
+2021-10-15 11:59:40.167396 | Writing links image to proc/redc_lnk/60.png ...
+2021-10-15 11:59:42.985505 | (61) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 0.8801706454020257
+2021-10-15 11:59:42.991511 | (62) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 0.7921535808618232
+2021-10-15 11:59:42.997516 | (63) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521985 links in 2 cross iters for eps = 0.7129382227756409
+2021-10-15 11:59:43.003522 | (64) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 0.6416444004980768
+2021-10-15 11:59:43.008527 | (65) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521983 links in 2 cross iters for eps = 0.5774799604482691
+2021-10-15 11:59:43.014532 | (66) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 0.5197319644034422
+2021-10-15 11:59:43.020537 | (67) Markup exists, indecisive elements: 1, crossed 87295 nodes and 521982 links in 2 cross iters for eps = 0.46775876796309795
+2021-10-15 11:59:43.026543 | (68) Markup exists, indecisive elements: 0, crossed 87296 nodes and 521986 links in 2 cross iters for eps = 0.42098289116678816
+2021-10-15 11:59:43.026543 | Writing links image to proc/redc_lnk/68.png ...
+2021-10-15 11:59:45.853120 | Reduction end
+2021-10-15 11:59:45.853120 | Writing final images to proc...
+2021-10-15 11:59:48.670682 | Completed!

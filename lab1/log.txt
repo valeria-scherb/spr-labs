@@ -1,0 +1,308 @@
+2021-09-21 20:36:29.030916 | Processing started
+Written image 0, new 0: 0, new 1: 0
+Written image start, new 0: 0, new 1: 0
+2021-09-21 20:36:29.288152 | Iteration 1/100
+2021-09-21 20:36:29.294157 | Iteration 2/100
+2021-09-21 20:36:29.300161 | Iteration 3/100
+2021-09-21 20:36:29.306167 | Iteration 4/100
+2021-09-21 20:36:29.312172 | Iteration 5/100
+2021-09-21 20:36:29.318180 | Iteration 6/100
+2021-09-21 20:36:29.324183 | Iteration 7/100
+2021-09-21 20:36:29.329188 | Iteration 8/100
+2021-09-21 20:36:29.336194 | Iteration 9/100
+2021-09-21 20:36:29.341199 | Iteration 10/100
+2021-09-21 20:36:29.347204 | Iteration 11/100
+2021-09-21 20:36:29.353211 | Iteration 12/100
+2021-09-21 20:36:29.359216 | Iteration 13/100
+2021-09-21 20:36:29.364221 | Iteration 14/100
+2021-09-21 20:36:29.370226 | Iteration 15/100
+2021-09-21 20:36:29.375230 | Iteration 16/100
+2021-09-21 20:36:29.381236 | Iteration 17/100
+2021-09-21 20:36:29.386241 | Iteration 18/100
+2021-09-21 20:36:29.392246 | Iteration 19/100
+2021-09-21 20:36:29.397250 | Iteration 20/100
+2021-09-21 20:36:29.403256 | Iteration 21/100
+2021-09-21 20:36:29.408259 | Iteration 22/100
+2021-09-21 20:36:29.414266 | Iteration 23/100
+2021-09-21 20:36:29.419271 | Iteration 24/100
+2021-09-21 20:36:29.425275 | Iteration 25/100
+2021-09-21 20:36:29.430279 | Iteration 26/100
+2021-09-21 20:36:29.436285 | Iteration 27/100
+2021-09-21 20:36:29.441289 | Iteration 28/100
+2021-09-21 20:36:29.447295 | Iteration 29/100
+2021-09-21 20:36:29.451298 | Iteration 30/100
+2021-09-21 20:36:29.457304 | Iteration 31/100
+2021-09-21 20:36:29.462308 | Iteration 32/100
+2021-09-21 20:36:29.467315 | Iteration 33/100
+2021-09-21 20:36:29.473318 | Iteration 34/100
+2021-09-21 20:36:29.478325 | Iteration 35/100
+2021-09-21 20:36:29.483328 | Iteration 36/100
+2021-09-21 20:36:29.488332 | Iteration 37/100
+2021-09-21 20:36:29.493338 | Iteration 38/100
+2021-09-21 20:36:29.498341 | Iteration 39/100
+2021-09-21 20:36:29.503348 | Iteration 40/100
+2021-09-21 20:36:29.509353 | Iteration 41/100
+2021-09-21 20:36:29.513356 | Iteration 42/100
+2021-09-21 20:36:29.519360 | Iteration 43/100
+2021-09-21 20:36:29.523363 | Iteration 44/100
+2021-09-21 20:36:29.528370 | Iteration 45/100
+2021-09-21 20:36:29.534374 | Iteration 46/100
+2021-09-21 20:36:29.539379 | Iteration 47/100
+2021-09-21 20:36:29.543382 | Iteration 48/100
+2021-09-21 20:36:29.548388 | Iteration 49/100
+2021-09-21 20:36:29.553393 | Iteration 50/100
+2021-09-21 20:36:29.559397 | Iteration 51/100
+2021-09-21 20:36:29.564403 | Iteration 52/100
+2021-09-21 20:36:29.568407 | Iteration 53/100
+2021-09-21 20:36:29.573410 | Iteration 54/100
+2021-09-21 20:36:29.578415 | Iteration 55/100
+2021-09-21 20:36:29.583420 | Iteration 56/100
+2021-09-21 20:36:29.588425 | Iteration 57/100
+2021-09-21 20:36:29.593429 | Iteration 58/100
+2021-09-21 20:36:29.598433 | Iteration 59/100
+2021-09-21 20:36:29.603438 | Iteration 60/100
+2021-09-21 20:36:29.608442 | Iteration 61/100
+2021-09-21 20:36:29.613447 | Iteration 62/100
+2021-09-21 20:36:29.618452 | Iteration 63/100
+2021-09-21 20:36:29.623456 | Iteration 64/100
+2021-09-21 20:36:29.627460 | Iteration 65/100
+2021-09-21 20:36:29.632465 | Iteration 66/100
+2021-09-21 20:36:29.637469 | Iteration 67/100
+2021-09-21 20:36:29.641473 | Iteration 68/100
+2021-09-21 20:36:29.647479 | Iteration 69/100
+2021-09-21 20:36:29.651482 | Iteration 70/100
+2021-09-21 20:36:29.656486 | Iteration 71/100
+2021-09-21 20:36:29.660488 | Iteration 72/100
+2021-09-21 20:36:29.665493 | Iteration 73/100
+2021-09-21 20:36:29.670498 | Iteration 74/100
+2021-09-21 20:36:29.674503 | Iteration 75/100
+2021-09-21 20:36:29.679506 | Iteration 76/100
+2021-09-21 20:36:29.684510 | Iteration 77/100
+2021-09-21 20:36:29.689515 | Iteration 78/100
+2021-09-21 20:36:29.694521 | Iteration 79/100
+2021-09-21 20:36:29.699525 | Iteration 80/100
+2021-09-21 20:36:29.703529 | Iteration 81/100
+2021-09-21 20:36:29.708534 | Iteration 82/100
+2021-09-21 20:36:29.713537 | Iteration 83/100
+2021-09-21 20:36:29.718542 | Iteration 84/100
+2021-09-21 20:36:29.722546 | Iteration 85/100
+2021-09-21 20:36:29.727549 | Iteration 86/100
+2021-09-21 20:36:29.732556 | Iteration 87/100
+2021-09-21 20:36:29.737560 | Iteration 88/100
+2021-09-21 20:36:29.742564 | Iteration 89/100
+2021-09-21 20:36:29.746568 | Iteration 90/100
+2021-09-21 20:36:29.751573 | Iteration 91/100
+2021-09-21 20:36:29.755576 | Iteration 92/100
+2021-09-21 20:36:29.760580 | Iteration 93/100
+2021-09-21 20:36:29.765585 | Iteration 94/100
+2021-09-21 20:36:29.770590 | Iteration 95/100
+2021-09-21 20:36:29.774594 | Iteration 96/100
+2021-09-21 20:36:29.779598 | Iteration 97/100
+2021-09-21 20:36:29.784603 | Iteration 98/100
+2021-09-21 20:36:29.789608 | Iteration 99/100
+2021-09-21 20:36:29.793611 | Iteration 100/100
+2021-09-21 20:36:29.793611 | Processing completed!
+2021-09-21 20:36:29.793611 | Writing images...
+Written image final, new 0: 0, new 1: 0
+Written image diff, new 0: 7, new 1: 6
+2021-09-21 20:36:30.002802 | Writing image 1/100
+Written image 1, new 0: 1, new 1: 0
+2021-09-21 20:36:30.108898 | Writing image 2/100
+Written image 2, new 0: 1, new 1: 1
+2021-09-21 20:36:30.215995 | Writing image 3/100
+Written image 3, new 0: 2, new 1: 0
+2021-09-21 20:36:30.321091 | Writing image 4/100
+Written image 4, new 0: 0, new 1: 0
+2021-09-21 20:36:30.436194 | Writing image 5/100
+Written image 5, new 0: 0, new 1: 0
+2021-09-21 20:36:30.543293 | Writing image 6/100
+Written image 6, new 0: 1, new 1: 0
+2021-09-21 20:36:30.649388 | Writing image 7/100
+Written image 7, new 0: 0, new 1: 1
+2021-09-21 20:36:30.755484 | Writing image 8/100
+Written image 8, new 0: 0, new 1: 0
+2021-09-21 20:36:30.862583 | Writing image 9/100
+Written image 9, new 0: 0, new 1: 0
+2021-09-21 20:36:30.968678 | Writing image 10/100
+Written image 10, new 0: 1, new 1: 0
+2021-09-21 20:36:31.076777 | Writing image 11/100
+Written image 11, new 0: 0, new 1: 0
+2021-09-21 20:36:31.184875 | Writing image 12/100
+Written image 12, new 0: 1, new 1: 0
+2021-09-21 20:36:31.292973 | Writing image 13/100
+Written image 13, new 0: 0, new 1: 0
+2021-09-21 20:36:31.402072 | Writing image 14/100
+Written image 14, new 0: 0, new 1: 1
+2021-09-21 20:36:31.511172 | Writing image 15/100
+Written image 15, new 0: 0, new 1: 0
+2021-09-21 20:36:31.617269 | Writing image 16/100
+Written image 16, new 0: 0, new 1: 1
+2021-09-21 20:36:31.724367 | Writing image 17/100
+Written image 17, new 0: 0, new 1: 0
+2021-09-21 20:36:31.833466 | Writing image 18/100
+Written image 18, new 0: 0, new 1: 0
+2021-09-21 20:36:31.942565 | Writing image 19/100
+Written image 19, new 0: 0, new 1: 0
+2021-09-21 20:36:32.049661 | Writing image 20/100
+Written image 20, new 0: 0, new 1: 0
+2021-09-21 20:36:32.155758 | Writing image 21/100
+Written image 21, new 0: 0, new 1: 1
+2021-09-21 20:36:32.262855 | Writing image 22/100
+Written image 22, new 0: 0, new 1: 1
+2021-09-21 20:36:32.385968 | Writing image 23/100
+Written image 23, new 0: 0, new 1: 0
+2021-09-21 20:36:32.514085 | Writing image 24/100
+Written image 24, new 0: 0, new 1: 0
+2021-09-21 20:36:32.620181 | Writing image 25/100
+Written image 25, new 0: 0, new 1: 0
+2021-09-21 20:36:32.730281 | Writing image 26/100
+Written image 26, new 0: 0, new 1: 0
+2021-09-21 20:36:32.838379 | Writing image 27/100
+Written image 27, new 0: 0, new 1: 0
+2021-09-21 20:36:32.948480 | Writing image 28/100
+Written image 28, new 0: 0, new 1: 0
+2021-09-21 20:36:33.054576 | Writing image 29/100
+Written image 29, new 0: 0, new 1: 0
+2021-09-21 20:36:33.163676 | Writing image 30/100
+Written image 30, new 0: 0, new 1: 0
+2021-09-21 20:36:33.272773 | Writing image 31/100
+Written image 31, new 0: 0, new 1: 0
+2021-09-21 20:36:33.380873 | Writing image 32/100
+Written image 32, new 0: 0, new 1: 0
+2021-09-21 20:36:33.485968 | Writing image 33/100
+Written image 33, new 0: 0, new 1: 0
+2021-09-21 20:36:33.596068 | Writing image 34/100
+Written image 34, new 0: 0, new 1: 0
+2021-09-21 20:36:33.704167 | Writing image 35/100
+Written image 35, new 0: 0, new 1: 0
+2021-09-21 20:36:33.811264 | Writing image 36/100
+Written image 36, new 0: 0, new 1: 0
+2021-09-21 20:36:33.921365 | Writing image 37/100
+Written image 37, new 0: 0, new 1: 0
+2021-09-21 20:36:34.029463 | Writing image 38/100
+Written image 38, new 0: 0, new 1: 0
+2021-09-21 20:36:34.138561 | Writing image 39/100
+Written image 39, new 0: 0, new 1: 0
+2021-09-21 20:36:34.248662 | Writing image 40/100
+Written image 40, new 0: 0, new 1: 0
+2021-09-21 20:36:34.356760 | Writing image 41/100
+Written image 41, new 0: 0, new 1: 0
+2021-09-21 20:36:34.465859 | Writing image 42/100
+Written image 42, new 0: 0, new 1: 0
+2021-09-21 20:36:34.574959 | Writing image 43/100
+Written image 43, new 0: 0, new 1: 0
+2021-09-21 20:36:34.684057 | Writing image 44/100
+Written image 44, new 0: 0, new 1: 0
+2021-09-21 20:36:34.790153 | Writing image 45/100
+Written image 45, new 0: 0, new 1: 0
+2021-09-21 20:36:34.896251 | Writing image 46/100
+Written image 46, new 0: 0, new 1: 0
+2021-09-21 20:36:35.002347 | Writing image 47/100
+Written image 47, new 0: 0, new 1: 0
+2021-09-21 20:36:35.111447 | Writing image 48/100
+Written image 48, new 0: 0, new 1: 0
+2021-09-21 20:36:35.219543 | Writing image 49/100
+Written image 49, new 0: 0, new 1: 0
+2021-09-21 20:36:35.326642 | Writing image 50/100
+Written image 50, new 0: 0, new 1: 0
+2021-09-21 20:36:35.435741 | Writing image 51/100
+Written image 51, new 0: 0, new 1: 0
+2021-09-21 20:36:35.544840 | Writing image 52/100
+Written image 52, new 0: 0, new 1: 0
+2021-09-21 20:36:35.654941 | Writing image 53/100
+Written image 53, new 0: 0, new 1: 0
+2021-09-21 20:36:35.765042 | Writing image 54/100
+Written image 54, new 0: 0, new 1: 0
+2021-09-21 20:36:35.871137 | Writing image 55/100
+Written image 55, new 0: 0, new 1: 0
+2021-09-21 20:36:35.977234 | Writing image 56/100
+Written image 56, new 0: 0, new 1: 0
+2021-09-21 20:36:36.082329 | Writing image 57/100
+Written image 57, new 0: 0, new 1: 0
+2021-09-21 20:36:36.191429 | Writing image 58/100
+Written image 58, new 0: 0, new 1: 0
+2021-09-21 20:36:36.301527 | Writing image 59/100
+Written image 59, new 0: 0, new 1: 0
+2021-09-21 20:36:36.409627 | Writing image 60/100
+Written image 60, new 0: 0, new 1: 0
+2021-09-21 20:36:36.516724 | Writing image 61/100
+Written image 61, new 0: 0, new 1: 0
+2021-09-21 20:36:36.623822 | Writing image 62/100
+Written image 62, new 0: 0, new 1: 0
+2021-09-21 20:36:36.732921 | Writing image 63/100
+Written image 63, new 0: 0, new 1: 0
+2021-09-21 20:36:36.843021 | Writing image 64/100
+Written image 64, new 0: 0, new 1: 0
+2021-09-21 20:36:36.952120 | Writing image 65/100
+Written image 65, new 0: 0, new 1: 0
+2021-09-21 20:36:37.060220 | Writing image 66/100
+Written image 66, new 0: 0, new 1: 0
+2021-09-21 20:36:37.166316 | Writing image 67/100
+Written image 67, new 0: 0, new 1: 0
+2021-09-21 20:36:37.274413 | Writing image 68/100
+Written image 68, new 0: 0, new 1: 0
+2021-09-21 20:36:37.381511 | Writing image 69/100
+Written image 69, new 0: 0, new 1: 0
+2021-09-21 20:36:37.490612 | Writing image 70/100
+Written image 70, new 0: 0, new 1: 0
+2021-09-21 20:36:37.598708 | Writing image 71/100
+Written image 71, new 0: 0, new 1: 0
+2021-09-21 20:36:37.709809 | Writing image 72/100
+Written image 72, new 0: 0, new 1: 0
+2021-09-21 20:36:37.818908 | Writing image 73/100
+Written image 73, new 0: 0, new 1: 0
+2021-09-21 20:36:37.929009 | Writing image 74/100
+Written image 74, new 0: 0, new 1: 0
+2021-09-21 20:36:38.035104 | Writing image 75/100
+Written image 75, new 0: 0, new 1: 0
+2021-09-21 20:36:38.142202 | Writing image 76/100
+Written image 76, new 0: 0, new 1: 0
+2021-09-21 20:36:38.250300 | Writing image 77/100
+Written image 77, new 0: 0, new 1: 0
+2021-09-21 20:36:38.358399 | Writing image 78/100
+Written image 78, new 0: 0, new 1: 0
+2021-09-21 20:36:38.464496 | Writing image 79/100
+Written image 79, new 0: 0, new 1: 0
+2021-09-21 20:36:38.575596 | Writing image 80/100
+Written image 80, new 0: 0, new 1: 0
+2021-09-21 20:36:38.702713 | Writing image 81/100
+Written image 81, new 0: 0, new 1: 0
+2021-09-21 20:36:38.825824 | Writing image 82/100
+Written image 82, new 0: 0, new 1: 0
+2021-09-21 20:36:38.948936 | Writing image 83/100
+Written image 83, new 0: 0, new 1: 0
+2021-09-21 20:36:39.055032 | Writing image 84/100
+Written image 84, new 0: 0, new 1: 0
+2021-09-21 20:36:39.163131 | Writing image 85/100
+Written image 85, new 0: 0, new 1: 0
+2021-09-21 20:36:39.272231 | Writing image 86/100
+Written image 86, new 0: 0, new 1: 0
+2021-09-21 20:36:39.381330 | Writing image 87/100
+Written image 87, new 0: 0, new 1: 0
+2021-09-21 20:36:39.489427 | Writing image 88/100
+Written image 88, new 0: 0, new 1: 0
+2021-09-21 20:36:39.601529 | Writing image 89/100
+Written image 89, new 0: 0, new 1: 0
+2021-09-21 20:36:39.707626 | Writing image 90/100
+Written image 90, new 0: 0, new 1: 0
+2021-09-21 20:36:39.813722 | Writing image 91/100
+Written image 91, new 0: 0, new 1: 0
+2021-09-21 20:36:39.922822 | Writing image 92/100
+Written image 92, new 0: 0, new 1: 0
+2021-09-21 20:36:40.030922 | Writing image 93/100
+Written image 93, new 0: 0, new 1: 0
+2021-09-21 20:36:40.140020 | Writing image 94/100
+Written image 94, new 0: 0, new 1: 0
+2021-09-21 20:36:40.249118 | Writing image 95/100
+Written image 95, new 0: 0, new 1: 0
+2021-09-21 20:36:40.358217 | Writing image 96/100
+Written image 96, new 0: 0, new 1: 0
+2021-09-21 20:36:40.466314 | Writing image 97/100
+Written image 97, new 0: 0, new 1: 0
+2021-09-21 20:36:40.577417 | Writing image 98/100
+Written image 98, new 0: 0, new 1: 0
+2021-09-21 20:36:40.685515 | Writing image 99/100
+Written image 99, new 0: 0, new 1: 0
+2021-09-21 20:36:40.794615 | Writing image 100/100
+Written image 100, new 0: 0, new 1: 0
+2021-09-21 20:36:40.903713 | Completed!
